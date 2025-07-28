@@ -65,3 +65,5 @@ console.log(`CAL balance: ${userStats.calBalance}`);
 
 MIT License
 contact address : 0x4Cd5D2E6346Be066A10cf7C8D05030F67bD62760
+<img width="1809" height="792" alt="Screenshot 2025-07-28 124742" src="https://github.com/user-attachments/assets/d45d7407-9e19-40d9-94b5-bc3e374f49c6" />
+
